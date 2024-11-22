@@ -1,12 +1,14 @@
-nginx
-opencurvedocker/curvefs
-labring/cubefs:v3.3.0
-pingcap/ticdc:v7.5.4
-pingcap/tidb-binlog:v7.5.4
-networkstatic/iperf3:latest
-tdengine/tdengine:latest
-1panel/maxkb:v1.7.2
+#nginx
+#opencurvedocker/curvefs
+#labring/cubefs:v3.3.0
+#pingcap/ticdc:v7.5.4
+#pingcap/tidb-binlog:v7.5.4
+#networkstatic/iperf3:latest
+#tdengine/tdengine:latest
+#1panel/maxkb:v1.7.2
+pingcap/tidb:v7.1.0
 #支持私库
 
 #支持指定架构
 --platform=linux/amd64
+--platform=linux/arm64
