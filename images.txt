@@ -7,7 +7,7 @@ networkstatic/iperf3:latest
 tdengine/tdengine:latest
 1panel/maxkb:v1.7.2
 pingcap/tidb:v7.1.0
-nvidia/cuda:11.7.0-cudnn8-devel-ubuntu20.04
+nvidia/cuda:12.6.2-cudnn-devel-ubuntu22.04
 #支持私库
 
 #支持指定架构
