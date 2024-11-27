@@ -8,6 +8,7 @@ tdengine/tdengine:latest
 1panel/maxkb:v1.7.2
 pingcap/tidb:v7.1.0
 nvidia/cuda:12.6.2-cudnn-devel-ubuntu22.04
+apacherocketmq/rocketmq-dashboard:latest
 #支持私库
 
 #支持指定架构
